@@ -21,20 +21,15 @@ import { SiMysql } from "react-icons/si";
 import { SiHeroku } from "react-icons/si";
 import { SiStorybook } from "react-icons/si";
 import { SiPostman } from "react-icons/si";
-import { SiGoland } from "react-icons/si";
 import { SiStrapi } from "react-icons/si";
 import { SiTypescript } from "react-icons/si";
 import { SiStyledcomponents } from "react-icons/si";
 import { SiChakraui } from "react-icons/si";
 import { SiPostcss } from "react-icons/si";
-import { SiFirebase } from "react-icons/si";
-import { SiNestjs } from "react-icons/si";
 import { SiPrisma } from "react-icons/si";
 import { SiNginx } from "react-icons/si";
-import { SiRadixui } from "react-icons/si";
 import { SiGithubactions } from "react-icons/si";
 import { SiSupabase } from "react-icons/si";
-import { SiGithubpages } from "react-icons/si";
 import { SiVite } from "react-icons/si";
 import { TbBrandNextjs } from "react-icons/tb";
 import { DiGit } from "react-icons/di";
@@ -240,18 +235,6 @@ const skillDetails = [
     key: "githubactions",
     icon: <SiGithubactions />,
     iconURL: "/assets/githubactions.svg",
-  },
-  {
-    name: "GitHub Pages",
-    key: "githubpages",
-    icon: <SiGithubpages />,
-    iconURL: "/assets/githubpages.svg",
-  },
-  {
-    name: "Chart.js",
-    key: "chart",
-    icon: <SiRadixui />,
-    iconURL: "/assets/radix.svg",
   },
   {
     name: "Chakra UI",
