@@ -1,0 +1,85 @@
+[
+  {
+    "role": "Software Engineer 1",
+    "company": "JPMorgan Chase & Co.",
+    "company_url": "https://www.jpmorganchase.com/",
+    "start_date": "02/2023",
+    "end_date": "Presently Working",
+    "duration": "3 months",
+    "location": "Bangalore",
+    "work_type": "Hybrid",
+    "role_description": [
+      "Working as a part of Transaction Reporting System team that deals with high-value transactions",
+      "Improvised the UI of Middle office Trade Manager, which lead to significant efficiency improvements",
+      "Automated tasks for clients to reduce the hassle and toil of manual work."
+    ],
+    "tech_stack": ["React", "JavaScript", "Redux", "Java", "Spring Boot", "Jenkins"]
+  },
+  
+  {
+    "role": "Software Engineer Intern",
+    "company": "JPMorgan Chase & Co.",
+    "company_url": "https://www.jpmorganchase.com/",
+    "start_date": "02/2023",
+    "end_date": "07/2023",
+    "duration": "6 months",
+    "location": "Bangalore",
+    "work_type": "On-Site",
+    "role_description": [
+        "Developed a multidisciplinary database management and visualization web application.",
+        "Reduced monitoring toil by 15% through task automation.",
+        "Enhanced the UI and fixed frontend issues of a Post Trade WebApp.",
+        "Proposed a new UI/UX design, increasing efficiency by 25% and enabling easy onboarding of new screens."
+    ],
+    "tech_stack": [
+      "React",
+      "Python",
+      "ChartJS",
+      "Streamlit",
+      "Python",
+      "Redux",
+      "Javascript",
+      "Numpy",
+      "Pandas"
+    ]
+  },{
+    "role": "Freelance Front-End Developer",
+    "company": "Musechain",
+    "company_url": "https://musechain.org/",
+    "start_date": "11/2022",
+    "end_date": "12/2022",
+    "duration": "2 months",
+    "location": "London",
+    "work_type": "Remote",
+    "role_description": [
+        "Worked as a front-end developer for  this NFT marketplace startup",
+        "Built the MVP within a very short time frame due to an upcoming funding round.",
+        "The Tech I worked on was valued at $400,000"
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "React",
+      "TailwindCSS"
+    ]
+},
+  {
+    "role": "Software Engineer Summer Intern",
+    "company": "JPMorgan Chase & Co.",
+    "start_date": "06/2022",
+    "end_date": "07/2022",
+    "duration": "2 months",
+    "location": "Bangalore",
+    "work_type": "On-Site",
+    "role_description": [
+        "Developed a micro-frontend application on Chase.com using the Octagon framework.",
+        "Integrated it seamlessly with an existing Angular application through the Single SPA framework.",
+        "Internationalized the application for multiple languages using i18n techniques, improving accessibility.",
+        "Designed custom navigation functionality, resulting in a 30% increase in navigation speed between different tech-stack micro-frontends."
+    ],
+    "tech_stack": [
+      "JavaScript",
+      "Octagon",
+      "React"
+    ]
+  }
+]
